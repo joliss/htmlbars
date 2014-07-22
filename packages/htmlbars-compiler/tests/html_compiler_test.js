@@ -1,5 +1,5 @@
 import { compile } from "htmlbars-compiler/compiler";
-import { tokenize } from "simple-html-tokenizer";
+import { tokenize } from "../../simple-html-tokenizer";
 import { hydrationHooks } from "htmlbars-runtime/hooks";
 import { DOMHelper } from "morph";
 
